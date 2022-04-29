@@ -1,6 +1,6 @@
 # TradeApp
 
-## prerequisite
+## Prerequisite
 Java Project <br/>
 Eclipse IDE : Oxygen <br/>
 Java Version Used: JDK 1.8,JRE 1.8 <br/>
